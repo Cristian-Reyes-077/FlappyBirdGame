@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/AguilaReal.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/AguilaRealSF.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/AguilaRealSF250.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/AguilaRealWep.webp</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/a1.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/a2.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/a3.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/chaltelPenud0o.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/chaltelPenudo.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/chavadelasuerte.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/eagle1.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/eagle2.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/eagle3.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Eagles/NoeliVolando.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Fonts/ScoreFont.spritefont</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Fonts/ScoreFontTwo.spritefont</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Items/click.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Items/getready.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Items/instructions.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Items/lose.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Items/pause.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Pipe/bottompipe.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Pipe/enemy.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Pipe/toppipe.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/SceneImages/background.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/SceneImages/desert.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/SceneImages/deserta.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/SceneImages/floor.png</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Sounds/die.mp3</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Sounds/hit.mp3</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Sounds/pause.mp3</File>
+    <File>C:/Users/crisr/Music/VS2022/utags/Optativa/FlappyBirdGame/FlappyBirdGame/Content/Sounds/wing.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
